@@ -3,9 +3,9 @@
     public enum SettingMetaSource
     {
         CustomSettings = 10,
-        DriverSettings = 20,
-        ConstantSettings = 30,
-        ReferenceSettings = 40,
+        ReferenceSettings = 20,
+        DriverSettings = 30,
+        ConstantSettings = 40,
         ScannedSettings = 50,
     }
 }
