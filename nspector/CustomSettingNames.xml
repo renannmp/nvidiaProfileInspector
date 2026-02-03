@@ -6453,7 +6453,7 @@
 			<SettingMasks/>
 		</CustomSetting>
 		<CustomSetting>
-			<UserfriendlyName>Prefered Refreshrate</UserfriendlyName>
+			<UserfriendlyName>Preferred Refresh Rate</UserfriendlyName>
 			<HexSettingID>0x0064B541</HexSettingID>
 			<GroupName>2 - Sync and Refresh</GroupName>
 			<SettingValues>
@@ -8955,6 +8955,7 @@
     </CustomSetting>-->
 	</Settings>
 </CustomSettingNames>
+
 
 
 
